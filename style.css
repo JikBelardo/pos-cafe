@@ -1,0 +1,54 @@
+body {
+	font-family: georgia;
+}
+
+
+input,select {
+	padding: 0.2em;
+	box-sizing: border-box;
+	width: 100%;
+	font-size: x-large;
+}
+
+input {
+	margin-top: 0.5em;
+}
+
+submit {
+	margin-top: 0.5em;
+}
+
+
+
+.qtyContainer {
+	text-align: right;
+	color: green;
+}
+
+.button-container {
+	text-align: right;
+}
+
+.overflow-auto {
+	height: 600px;
+}
+body{
+	background-color: #A79277;
+}
+.container{
+	background-color: #D1BB9E;
+}
+#coffeeContainer{
+	background-color: #EAD8C0;
+}
+#header1{
+	border: 2px solid;
+	border-color: #000000;
+	border-width: 1px;
+	padding: 10px;
+}
+#bodyy{
+	border: 2px solid;
+	border-color: #8C6A5D;
+	size: relative;
+}
